@@ -1,4 +1,4 @@
-Code compares each number in a row to verify their "safety." Second task required list comprehension to create an updated row with one of the numbers removed, then re-verified for its "safety."
+Day 2 of Advent of Code, I decided to use Python because the lines in this file were differing lengths.
 
 Puzzle details are as follows:
 
